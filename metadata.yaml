@@ -1,0 +1,37 @@
+_repo: Vermont--A-Study-of-Independence_35573
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Robinson, Rowland Evans
+    alias: Robinson, Rowland E. (Rowland Evans)
+    birthdate: 1833
+    deathdate: 1900
+    gutenberg_agent_id: '37446'
+    url: http://www.gutenberg.org/2009/agents/37446
+  editor:
+    agent_name: Scudder, Horace Elisha
+    aliases:
+    - Scudder, Horace E.
+    - Scudder, H. E. (Horace Elisha)
+    birthdate: 1838
+    deathdate: 1902
+    gutenberg_agent_id: '3446'
+    url: http://www.gutenberg.org/2009/agents/3446
+    wikipedia: http://en.wikipedia.org/wiki/Horace_Scudder
+description: ''
+gutenberg_issued: '2011-03-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35573'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F001'
+- !lcsh 'Vermont -- History'
+title: 'Vermont: A Study of Independence'
+url: http://www.gutenberg.org/ebooks/35573
